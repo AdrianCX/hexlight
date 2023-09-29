@@ -10,6 +10,9 @@ Soldering done is visibile in pictures:
 - Connected a 3 AAA battery holder to VSYS and GND on pico and 5v/GND on led strip.
 - Connected data pin to pico on GPIO 0
 
+If you'd like to see a video:
+![vid.mp4](/heart/pictures/vid.mp4 "")
+
 How to assemble and make:
 
 ![Alt text](/heart/pictures/6.jpg "")
