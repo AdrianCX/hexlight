@@ -1,0 +1,1 @@
+This option requires glueing the 3 part pieces and does not have a back cover

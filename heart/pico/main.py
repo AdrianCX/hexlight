@@ -11,7 +11,7 @@ colors_rgb=[(255, 0, 0, 0),(255, 50, 0, 0),(255, 100, 0,0),(255, 150, 0,0),(255,
 
 class Display:
     def __init__(self):
-        self.pixels=37
+        self.pixels=40
         self.brightness=50
         self.tickupdate=250
         self.deadline = time.ticks_add(time.ticks_ms(), self.tickupdate)
@@ -20,7 +20,7 @@ class Display:
         mode="BRGW"
         
         # Pins for each light strip are 16/17/15/19/20 below
-        self.grid = [Neopixel(self.pixels, 0, 0, mode)]
+        self.grid = [Neopixel(self.pixels, 0, 16, mode)]
         self.clear()
         self.mode="clear"
 

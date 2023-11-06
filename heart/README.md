@@ -13,7 +13,7 @@ Soldering done is visibile in pictures:
 If you'd like to see a video:
 ![vid.mp4](/heart/pictures/vid.mp4 "")
 
-How to assemble and make:
+How to assemble and make (folder: option2):
 
 ![Alt text](/heart/pictures/6.jpg "")
 
@@ -24,3 +24,6 @@ How to assemble and make:
 ![Alt text](/heart/pictures/7.jpg "")
 
 ![Alt text](/heart/pictures/2.jpg "")
+
+For the 'option1' folder it's a similar process, difference being there's a full cover to
+put the pico on and the hex support pieces are built in on the led board.
